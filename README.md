@@ -1,6 +1,6 @@
 # Vrinda-Store-Report
 
-## Description
+# Description
 
 This project provides a set of tools and scripts for analyzing and reporting on data from the Vrinda Store.  The specific functionality includes generating sales reports, identifying top-selling products, and calculating overall store performance metrics.  Details on specific reports and analysis scripts are provided below.
 
